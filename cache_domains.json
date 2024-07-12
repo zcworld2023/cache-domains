@@ -121,11 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
 		{
 			"name": "legacyupdate",
 			"description": "legacyupdate updates for old OS",
 			"domain_files": ["legacyupdate.txt"]
-		},
+		}
 	]
 }
