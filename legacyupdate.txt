@@ -1,1 +1,2 @@
+legacyupdate.net
 *.legacyupdate.net
